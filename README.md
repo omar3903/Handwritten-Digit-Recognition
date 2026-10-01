@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition
 
-Transfer learning with an ImageNet-pretrained ResNet18 in PyTorch to recognise my own handwritten digits. Individual project for CP467 Image Processing & Recognition at Wilfrid Laurier University, Fall 2024.
+Transfer learning with an ImageNet-pretrained ResNet18 in PyTorch to recognise my own handwritten digits. An individual image processing and recognition project from my Computer Science degree at Wilfrid Laurier University.
 
 **Try it live:** [omar3903.dev](https://omar3903.dev/#digit-recognition). Draw a digit, or pick one of my test digits, and compare all three models running in your browser.
 
